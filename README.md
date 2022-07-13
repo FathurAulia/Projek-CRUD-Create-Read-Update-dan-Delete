@@ -1,5 +1,5 @@
 
-Tugas akhir semester 2 Mata Kuliah Perograman Berbasis Objek
+Tugas akhir semester 2 Mata Kuliah Pemrograman Berorientasi Objek
 
 ------------Project CRUD dengan SQLite dan PyQt5------------
 
